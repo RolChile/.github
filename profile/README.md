@@ -1,4 +1,4 @@
-![Logo de RolChile](https://myoctocat.com/assets/images/base-octocat.svg)
+![Logo de RolChile](https://rol.cl/img/logov2h.png)
 
 ## ¡Hola! Bienvenid@ a RolChile 👋
 
