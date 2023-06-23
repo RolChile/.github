@@ -35,8 +35,13 @@ Si quieres saber más de nuestras plataformas y servicios, acá te dejamos un li
 3. **[Icon Service](#)**. Una de nuestras últimas funcionalidades para las partidas de rol es permitir que los jugadores puedan crear un inventario apoyado de imágenes para cada objeto y arma que tengan.
 
 ## ¿Cómo Colaborar?
+¿Te interesa colaborar con nuestros proyectos? Es muy simple. Escríbenos en el canal #equipo-dev de [nuestro Discord](https://discord.rol.cl), o envía un email a [nuestro correo electrónico](mailto:rolchile.oficial@gmail.com), y cuéntanos algunas cosas de ti:
 
-...
+1. ¿Qué sabes hacer? No te preocupes, no necesitas trabajar en una gran compañía ni vamos a descartar tu aporte; es sólo para saber dónde puedes colaborar de mejor manera.
+2. ¿Qué ideas tienes para aportar (si es que las tienes)?
+3. ¿Qué te gustaría hacer colaborando con nosotros?
+
+Con esa información, además de alguna forma de contactarte directamente, nuestro equipo se pondrá en contacto contigo lo antes posible y podremos arreglar para que empieces a ayudarnos. Nos encantaría tenerte, así que si tienes dudas, ¡anímate! 
 
 ## Nuestras Redes
 
