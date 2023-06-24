@@ -45,4 +45,11 @@ Con esa información, además de alguna forma de contactarte directamente, nuest
 
 ## Nuestras Redes
 
-...
+Puedes encontrarnos en diversas plataformas de redes sociales a través de Internet, y enterarte de qué más estamos y estaremos haciendo. Te invitamos a seguirnos y participar, ¡es gratis!
+
+- [Sitio web Oficial](https://rol.cl)
+- [Discord Oficial](https://discord.rol.cl)
+- [Nuestro Instagram](https://www.instagram.com/rolchile/)
+- [TikTok de RolChile](https://www.tiktok.com/@rolchile)
+- [Página de Facebook](https://www.facebook.com/RolChile)
+- [Grupo de Facebook](https://www.facebook.com/groups/rolchile)
